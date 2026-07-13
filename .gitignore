@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# editor
+/.idea
+
+# data
+/data
+/db
+
+# logs
+/logs
+
+# ignore results for now
+/results
