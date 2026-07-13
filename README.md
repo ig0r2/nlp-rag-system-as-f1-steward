@@ -1,1 +1,1 @@
-# nlp-rag-system-as-f1-steward
+# AI kao sudija u Formuli 1
